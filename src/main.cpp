@@ -1,6 +1,6 @@
 #include <iostream>
 #include <ctime>
-#include "MinesweeperBoard.h"
+#include "MinesweeperBoard.hpp"
 
 int main() {
     srand(time(0));
