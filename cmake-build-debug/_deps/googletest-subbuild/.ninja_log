@@ -1,0 +1,21 @@
+# ninja log v5
+1	46	6902120909326312	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	88206bf99e6e9b83
+1	46	6902120909326312	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	88206bf99e6e9b83
+47	3267	6902120941518444	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	4d3469abb9f528a5
+47	3267	6902120941518444	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	4d3469abb9f528a5
+3267	4580	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f88758be3043b9c5
+3267	4580	0	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f88758be3043b9c5
+4580	4624	6902120955093881	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c08c723bbc435a54
+4580	4624	6902120955093881	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c08c723bbc435a54
+4624	4668	6902120955540382	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	db0c2db95929fc27
+4624	4668	6902120955540382	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	db0c2db95929fc27
+4668	4712	6902120955984654	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	74df028a617c7b15
+4668	4712	6902120955984654	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	74df028a617c7b15
+4713	4757	6902120956419900	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4eb56edf6cc68952
+4713	4757	6902120956419900	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	4eb56edf6cc68952
+4757	4800	6902120956863328	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8bd4e77469644b81
+4757	4800	6902120956863328	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8bd4e77469644b81
+4801	4865	6902120957513853	CMakeFiles/googletest-populate-complete	202bd0813efd4bef
+4801	4865	6902120957513853	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	202bd0813efd4bef
+4801	4865	6902120957513853	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	202bd0813efd4bef
+4801	4865	6902120957513853	C:/Programowanie/projekty_cpp/projekty_wlasne/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	202bd0813efd4bef
