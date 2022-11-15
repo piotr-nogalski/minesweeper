@@ -1,0 +1,21 @@
+# ninja log v5
+1	59	6902155195773510	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	701e02ee99ff0259
+1	59	6902155195773510	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	701e02ee99ff0259
+60	3386	6902155229059753	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	b8986436412186e9
+60	3386	6902155229059753	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	b8986436412186e9
+3387	4695	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	35380d77b6a4729b
+3387	4695	0	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	35380d77b6a4729b
+4695	4737	6902155242564433	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d4821077f65bc97e
+4695	4737	6902155242564433	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d4821077f65bc97e
+4737	4781	6902155243001213	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	a83b9d5948cd9712
+4737	4781	6902155243001213	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	a83b9d5948cd9712
+4781	4824	6902155243427218	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b2d01d25f1e96ef
+4781	4824	6902155243427218	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b2d01d25f1e96ef
+4824	4868	6902155243874114	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c1a80bce8b2b3683
+4824	4868	6902155243874114	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c1a80bce8b2b3683
+4868	4910	6902155244298650	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f46d62ecaa601c72
+4868	4910	6902155244298650	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f46d62ecaa601c72
+4911	4970	6902155244897262	CMakeFiles/googletest-populate-complete	b15f682220d843d2
+4911	4970	6902155244897262	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b15f682220d843d2
+4911	4970	6902155244897262	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	b15f682220d843d2
+4911	4970	6902155244897262	C:/Programowanie/mini_games/Minesweeper/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b15f682220d843d2
